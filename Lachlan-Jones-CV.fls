@@ -2,8 +2,8 @@ PWD /Users/lachlan/Desktop/Job Hunting/CV
 INPUT /usr/local/texlive/2025/texmf.cnf
 INPUT /usr/local/texlive/2025/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/lachlan/Desktop/Job Hunting/CV/main.tex
-OUTPUT main.log
+INPUT /Users/lachlan/Desktop/Job Hunting/CV/Lachlan-Jones-CV.tex
+OUTPUT Lachlan-Jones-CV.log
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/base/size10.clo
@@ -141,6 +141,8 @@ INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/needspace/needspace.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/needspace/needspace.sty
+INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty
+INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/generic/pdftex/glyphtounicode.tex
 INPUT /usr/local/texlive/2025/texmf-dist/tex/generic/pdftex/glyphtounicode.tex
 INPUT /usr/local/texlive/2025/texmf-dist/tex/generic/pdftex/glyphtounicode.tex
@@ -180,10 +182,10 @@ INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/sourcesanspro/T1SourceSansPro
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/sourcesanspro/T1SourceSansPro-TLF.fd
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/sourcesanspro/T1SourceSansPro-TLF.fd
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Regular-tlf-t1.tfm
-INPUT ./main.aux
-INPUT ./main.aux
-INPUT main.aux
-OUTPUT main.aux
+INPUT ./Lachlan-Jones-CV.aux
+INPUT ./Lachlan-Jones-CV.aux
+INPUT Lachlan-Jones-CV.aux
+OUTPUT Lachlan-Jones-CV.aux
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/ly1/ly1ptm.fd
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/ly1/ly1ptm.fd
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/ly1/ly1ptm.fd
@@ -191,7 +193,7 @@ INPUT /usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/graphics/color.sty
-OUTPUT main.pdf
+OUTPUT Lachlan-Jones-CV.pdf
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/lm/ot1lmr.fd
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/lm/ot1lmr.fd
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/lm/ot1lmr.fd
@@ -242,7 +244,7 @@ INPUT /usr/local/texlive/2025/texmf-dist/fonts/vf/adobe/sourcesanspro/SourceSans
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-It-tlf-t1--base.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/vf/adobe/sourcesanspro/SourceSansPro-It-tlf-t1.vf
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-It-tlf-t1--base.tfm
-INPUT main.aux
+INPUT Lachlan-Jones-CV.aux
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb

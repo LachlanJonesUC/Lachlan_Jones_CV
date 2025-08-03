@@ -34,6 +34,8 @@
 \usepackage{ifthen} % for conditional statements
 \usepackage{needspace} % for avoiding page brake right after the section title
 \usepackage{iftex} % check if engine is pdflatex, xetex or luatex
+\usepackage{tabularx}
+\usepackage{booktabs}
 
 % Ensure that generate pdf is machine readable/ATS parsable:
 \ifPDFTeX
@@ -196,10 +198,10 @@
     % \kern 5.0 pt%
     % \mbox{\hrefWithoutArrow{https://yourwebsite.com/}{yourwebsite.com}}%
     % \kern 5.0 pt%
-    % \AND%
-    % \kern 5.0 pt%
-    % \mbox{\hrefWithoutArrow{https://linkedin.com/in/yourusername}{linkedin.com/in/yourusername}}%
-    % \kern 5.0 pt%
+    \AND%
+    \kern 5.0 pt%
+    \mbox{\hrefWithoutArrow{https://www.linkedin.com/in/lachlan-jones-nz/}{linkedin.com/in/lachlan-jones-nz}}%
+    \kern 5.0 pt%
     \AND%
     \kern 5.0 pt%
     \mbox{\hrefWithoutArrow{https://github.com/LachlanJonesUC}{github.com/LachlanJonesUC}}%

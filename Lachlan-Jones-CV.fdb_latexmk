@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1754099670.18244 "/Users/lachlan/Desktop/Job Hunting/CV/main.tex" "main.pdf" "main" 1754099670.76094 0
-  "/Users/lachlan/Desktop/Job Hunting/CV/main.tex" 1754099670.01136 13040 562b88d20acd290bda6ac9bd8db34998 ""
+["pdflatex"] 1754223229.088 "/Users/lachlan/Desktop/Job Hunting/CV/Lachlan-Jones-CV.tex" "Lachlan-Jones-CV.pdf" "Lachlan-Jones-CV" 1754223229.66649 0
+  "/Users/lachlan/Desktop/Job Hunting/CV/Lachlan-Jones-CV.tex" 1754223205.92358 13089 3059964d22e0b7a5d0dcbf6cf1f4a5ac ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc" 1202520719 2840 216e6e45ad352e2456e1149f28885bee ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc" 1587936753 3344 37c976a8b2fa4b8f132a488735054f7d ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc" 1587936753 3021 665788e9679767ade2a71155215d25e0 ""
@@ -69,6 +69,7 @@
   "/usr/local/texlive/2025/texmf-dist/tex/latex/base/size10.clo" 1738182759 8448 5cf247d4bd0c7d5d711bbbdf111fae2e ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/bookmark/bkm-pdftex.def" 1702241854 8818 aa5157b46368efebf023abff55611467 ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/bookmark/bookmark.sty" 1702241854 18245 97e6be180cf07bb6f7008cfdaaecfce5 ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty" 1579038678 6078 f1cb470c9199e7110a27851508ed7a5c ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/changepage/changepage.sty" 1256071977 4523 a9044e2dc40e764dac60d2acda7ae919 ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/enumitem/enumitem.sty" 1738874546 52272 63d293bc0d496619edb57585740861a2 ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/eso-pic/eso-pic.sty" 1683144721 11876 6ef493863ae0d7a984706973240c2237 ""
@@ -125,10 +126,10 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1745893937 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1745893908 3345740 fd3b4643cb9100d0023c79f94f8656d5 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "main.aux" 1754099670.68247 1804 756438d1b31e55dba9114c24c9cf7b8d "pdflatex"
-  "main.tex" 1754099670.01136 13040 562b88d20acd290bda6ac9bd8db34998 ""
+  "Lachlan-Jones-CV.aux" 1754223229.58838 1804 dde6e7511e3b4b0483f048ee84664755 "pdflatex"
+  "Lachlan-Jones-CV.tex" 1754223205.92358 13089 3059964d22e0b7a5d0dcbf6cf1f4a5ac ""
   (generated)
-  "main.aux"
-  "main.log"
-  "main.pdf"
+  "Lachlan-Jones-CV.aux"
+  "Lachlan-Jones-CV.log"
+  "Lachlan-Jones-CV.pdf"
   (rewritten before read)
