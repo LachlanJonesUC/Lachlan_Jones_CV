@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.29)  21 APR 2026 21:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.29)  22 APR 2026 08:30
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -696,13 +696,13 @@ LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/m/n' aliased to
 LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/regular/n' will be
 (Font)              scaled to size 10.0pt on input line 259.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 391.
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 390.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 10.0pt on input line 391.
+(Font)              scaled to size 10.0pt on input line 390.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 430.
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 429.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 9.0pt on input line 430.
+(Font)              scaled to size 9.0pt on input line 429.
  [1
 
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc}]
@@ -718,13 +718,13 @@ L3 programming layer <2025-01-18>
 Here is how much of TeX's memory you used:
  16270 strings out of 473190
  279351 string characters out of 5715800
- 690661 words of memory out of 5000000
+ 691661 words of memory out of 5000000
  39281 multiletter control sequences out of 15000+600000
  639475 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,5n,79p,425b,730s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on Lachlan-Jones-CV.pdf (2 pages, 178802 bytes).
+Output written on Lachlan-Jones-CV.pdf (2 pages, 178830 bytes).
 PDF statistics:
  74 PDF objects out of 1000 (max. 8388607)
  60 compressed objects within 1 object stream
